@@ -1,0 +1,6 @@
+- Se debe habilitar la verificación de dos pasos. https://myaccount.google.com/u/5/signinoptions/two-step-verification 
+- Luego ir a la siguiente url https://myaccount.google.com/u/5/apppasswords
+- Crear una llave personalizada
+- Le damos un nombre
+- Luego nos arrojará una contraseña y le damos en guardar:
+- Lo usamos en el código para enviar el correo por librerías smtp.
